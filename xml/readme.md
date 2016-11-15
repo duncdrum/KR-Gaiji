@@ -9,6 +9,6 @@ Depending on default font settings you might see Tofu's within the file. This is
     * ```@n``` contains the original ID scheme.
 * Characters without unicode representation are transcribed in Unicode IDC format. 
     * If component variants are available under unicode these are used instead of unihan equivalents: 
-        * 汄 = ```⿰氵人``` (U+6C35)  instead of ```~~⿰水人~~``` (U+6C35).
-        * 说 = ```⿰讠兑``` (U+8BA0) instead of ```~~⿰言兌~~``` (U+8A00).
+        * 汄 = ```⿰氵人``` (U+6C35)  instead of ~~```⿰水人```~~ (U+6C35).
+        * 说 = ```⿰讠兑``` (U+8BA0) instead of ~~```⿰言兌```~~ (U+8A00).
     * These glyphs keep the original ID as xml:ID.
